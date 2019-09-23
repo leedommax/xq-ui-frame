@@ -1,5 +1,6 @@
 # xq-ui-frame
-
+##
+[项目搭建教程](ww.rxshc.com/180.html). 
 ## Project setup
 ```
 npm install
@@ -23,4 +24,8 @@ npm run test
 ### Lints and fixes files
 ```
 npm run lint
+```
+### release lib
+```
+npm run lib
 ```
