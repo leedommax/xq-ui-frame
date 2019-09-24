@@ -12,4 +12,4 @@ export default {
     install,
     test
 }
-export { test }
+export { install, test }

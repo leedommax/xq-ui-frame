@@ -1,6 +1,6 @@
 {
   "name": "xq-ui-frame",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ui-fram of xueqin",
   "main": "lib/xq-ui-frame.umd.min.js",
   "keyword": "ui-frame",
